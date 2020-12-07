@@ -1,0 +1,9 @@
+Library/
+obj/
+Temp/
+Logs/
+Assembly-CSharp.csproj
+.vs
+.sln
+Zenject.sln
+.csproj
